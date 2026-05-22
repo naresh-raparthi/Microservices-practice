@@ -8,7 +8,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related PROD APIs "
+  message: "Welcome to EazyBank cards related PRODuction APIs "
   contactDetails:
     name: "Smitha Ray - PROD Lead"
     email: "smitha@eazybank.com"
