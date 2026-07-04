@@ -8,7 +8,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EazyBank cards related QA1 APIs "
+  message: "Welcome to EazyBank cards related cards-QA APIs "
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@eazybank.com"
